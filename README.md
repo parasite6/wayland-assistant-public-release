@@ -6,23 +6,21 @@ Select text anywhere on Hyprland, press a key, and act on it: search the web, tr
 
 ## Contents
 
-<pre>
-<a href="#at-a-glance">At a glance</a>
-<a href="#keys">Keys</a>
-<a href="#requirements">Requirements</a>
-<a href="#features">Features</a>
-├── <a href="#the-popup">The popup</a>
-├── <a href="#web-search">Web search</a>
-├── <a href="#translate">Translate</a>
-├── <a href="#ask-claude">Ask Claude</a>
-└── <a href="#settings-app">Settings app</a>
-<a href="#installing">Installing</a>
-<a href="#how-it-works">How it works</a>
-├── <a href="#permission-modes">Permission modes</a>
-├── <a href="#what-the-installer-changes">What the installer changes</a>
-└── <a href="#resource-use">Resource use</a>
-<a href="#license">License</a>
-</pre>
+- [At a glance](#at-a-glance)
+- [Keys](#keys)
+- [Requirements](#requirements)
+- [Features](#features)
+  - [The popup](#the-popup)
+  - [Web search](#web-search)
+  - [Translate](#translate)
+  - [Ask Claude](#ask-claude)
+  - [Settings app](#settings-app)
+- [Installing](#installing)
+- [How it works](#how-it-works)
+  - [Permission modes](#permission-modes)
+  - [What the installer changes](#what-the-installer-changes)
+  - [Resource use](#resource-use)
+- [License](#license)
 
 ## At a glance
 
